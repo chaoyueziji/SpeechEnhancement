@@ -18,8 +18,10 @@ Noise-Robust Speaker Verification [[paper](https://www.isca-speech.org/archive/I
 ### 2016
 * Speech Enhancement In Multiple-Noise Conditions using Deep Neural
 Networks [[paper](https://www.isca-speech.org/archive/Interspeech_2016/pdfs/0088.PDF)] 
-* NMF-based Speech Enhancement Incorporating Deep Neural Network [[paper](http://pdfs.semanticscholar.org/8588/b415251e6f17f92a726171d957171fafcb81.pdf)] 
+* A Novel Single Channel Speech Enhancement Based
+on Joint Deep Neural Network and Wiener Filter [[paper](http://xueshu.baidu.com/s?wd=paperuri%3A%28de2ed9a93abb3edeacde73c2a321e400%29&filter=sc_long_sign&tn=SE_xueshusource_2kduw22v&sc_vurl=http%3A%2F%2Fieeexplore.ieee.org%2Fdocument%2F7489830%2F&ie=utf-8&sc_us=17707163339176136223)] 
 * NMF-based Speech Enhancement Incorporating Deep Neural Network [[paper](http://pdfs.semanticscholar.org/8588/b415251e6f17f92a726171d957171fafcb81.pdf)] 
 ### 2014
-* NMF-based Speech Enhancement Incorporating Deep Neural Network [[paper](http://pdfs.semanticscholar.org/8588/b415251e6f17f92a726171d957171fafcb81.pdf)] 
+* An Experimental Study on Speech Enhancement
+Based on Deep Neural Networks [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6665000)] 
 
