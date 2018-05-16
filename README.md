@@ -1,11 +1,11 @@
 # state-of-the-art SpeechEnhancement methods 
-==  
+
 
 |Name|Hai-Zhang Zou|
 |---|---
 |E-mail|superzz@gmail.com
 
-==
+
 ## DeepLearning
 ### 2017
 * Single channel speech enhancement using convolutional neural
